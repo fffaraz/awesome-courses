@@ -9,7 +9,6 @@
 * [alison](http://alison.com/)
 * [openuniversity](http://www.openuniversity.edu/courses/global)
 
-
 * [class-central Computer Science](https://www.class-central.com/subject/cs)
 * [reddit (Jan 2014)](http://www.reddit.com/r/learnprogramming/comments/1umnmp/)
 * [reddit (April 2013)](http://www.reddit.com/r/learnprogramming/comments/1bx5mb/)
