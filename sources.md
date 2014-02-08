@@ -2,6 +2,7 @@
 * [udacity](https://www.udacity.com/)
 * [udemy](https://www.udemy.com/courses/)
 * [khanacademy](https://www.khanacademy.org/)
+* [openhpi](https://openhpi.de/)
 * [stanford online courses](http://online.stanford.edu/courses)
 * [MIT OpenCourseWare](http://ocw.mit.edu/index.htm)
 * [Online College Courses](http://www.onlinecourses.com/)
