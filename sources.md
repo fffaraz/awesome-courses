@@ -20,11 +20,3 @@
 * [reddit (April 2013)](http://www.reddit.com/r/learnprogramming/comments/1bx5mb/)
 * [reddit (Feb 2013)](http://www.reddit.com/r/learnprogramming/comments/17xrb2/)
 * [reddit (Jan 2013)](http://www.reddit.com/r/learnprogramming/comments/15tzua/)
-
-
-
-
-
-
-
-
