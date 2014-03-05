@@ -6,6 +6,7 @@
 * [stanford online courses](http://online.stanford.edu/courses)
 * [MIT OpenCourseWare](http://ocw.mit.edu/index.htm)
 * [Online College Courses](http://www.onlinecourses.com/)
+* [Open Yale Courses](http://oyc.yale.edu/)
 * [iversity](https://iversity.org/)
 * [edx](https://www.edx.org/)
 * [openculture](http://www.openculture.com/computer_science_free_courses)
