@@ -3,7 +3,7 @@ free-programming-courses
 
 List of free online programming/CS courses
 
-# Source
+# Sources
 
 ## All
 
@@ -48,16 +48,20 @@ List of free online programming/CS courses
 * [webyad](http://www.webyad.com/)
 * [fa.khanacademy](https://fa.khanacademy.org/)
 
-# Index
-* [Cryptography](#Cryptography)
-* [CUDA](#CUDA)
-* [Python](#Python)
+# Courses
+
+* [Cryptography](#cryptography)
+* [CUDA](#cuda)
+* [Python](#python)
 
 ## Cryptography
+
 * [CS387 - Applied Cryptography](http://www.udacity.com/overview/Course/cs387)
 
 ## CUDA
+
 * [CS344 - Introduction to Parallel Programming - Using CUDA to Harness the Power of GPUs](http://www.udacity.com/overview/Course/cs344/CourseRev/1)
 
 ## Python
+
 * [An Introduction to Interactive Programming in Python](https://www.coursera.org/course/interactivepython)
