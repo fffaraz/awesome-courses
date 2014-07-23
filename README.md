@@ -21,6 +21,7 @@ List of free online programming/CS courses
 * [openculture](http://www.openculture.com/computer_science_free_courses)
 * [alison](http://alison.com/)
 * [openuniversity](http://www.openuniversity.edu/courses/global)
+* [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com/)
 
 ## Class Central
 
