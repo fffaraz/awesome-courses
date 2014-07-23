@@ -1,11 +1,11 @@
-free-programming-courses
+Free Programming Courses
 ========================
 
 List of free online programming/CS courses
 
 # Sources
 
-## All
+## Websites
 
 * [coursera](https://www.coursera.org/)
 * [udacity](https://www.udacity.com/)
@@ -22,11 +22,11 @@ List of free online programming/CS courses
 * [alison](http://alison.com/)
 * [openuniversity](http://www.openuniversity.edu/courses/global)
 
-## class-central
+## Class Central
 
 * [class-central Computer Science](https://www.class-central.com/subject/cs)
 
-## reddit
+## Reddit Lists
 
 * [reddit (March 2014)](http://www.reddit.com/r/learnprogramming/comments/1zms0p/)
 * [reddit (Jan 2014)](http://www.reddit.com/r/learnprogramming/comments/1umnmp/)
@@ -38,7 +38,7 @@ List of free online programming/CS courses
 * [reddit (Feb 2013)](http://www.reddit.com/r/learnprogramming/comments/17xrb2/)
 * [reddit (Jan 2013)](http://www.reddit.com/r/learnprogramming/comments/15tzua/)
 
-## Persian / Farsi
+## Persian / Farsi websites
 
 * [maktabkhooneh](http://maktabkhooneh.org/)
 * [kelasedars](http://kelasedars.org/)
