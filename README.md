@@ -42,6 +42,10 @@ List of free online programming/CS courses
 * [reddit (Feb 2013)](http://www.reddit.com/r/learnprogramming/comments/17xrb2/)
 * [reddit (Jan 2013)](http://www.reddit.com/r/learnprogramming/comments/15tzua/)
 
+## Etc.
+
+* [The 25 Best Places To Take Free Online Computer Science Classes](http://www.edudemic.com/the-25-best-places-to-take-free-online-computer-science-classes/)
+
 ## Persian / Farsi websites
 
 * [darsnameh](http://www.darsnameh.com/) - darsnameh.com
