@@ -7,21 +7,24 @@ List of free online programming/CS courses
 
 ## Websites
 
-* [coursera](https://www.coursera.org/)
-* [udacity](https://www.udacity.com/)
-* [udemy](https://www.udemy.com/courses/)
-* [khanacademy](https://www.khanacademy.org/)
-* [openhpi](https://openhpi.de/)
-* [stanford online courses](http://online.stanford.edu/courses)
-* [MIT OpenCourseWare](http://ocw.mit.edu/index.htm)
-* [Online College Courses](http://www.onlinecourses.com/)
-* [Open Yale Courses](http://oyc.yale.edu/)
-* [iversity](https://iversity.org/)
-* [edx](https://www.edx.org/)
-* [openculture](http://www.openculture.com/computer_science_free_courses)
-* [alison](http://alison.com/)
-* [openuniversity](http://www.openuniversity.edu/courses/global)
-* [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com/)
+* [coursera](https://www.coursera.org/) - coursera.org
+* [udacity](https://www.udacity.com/) - udacity.com
+* [udemy](https://www.udemy.com/courses/) - udemy.com/courses
+* [khanacademy](https://www.khanacademy.org/) - khanacademy.org
+* [openhpi](https://openhpi.de/) - openhpi.de
+* [stanford online courses](http://online.stanford.edu/courses) - online.stanford.edu/courses
+* [MIT OpenCourseWare](http://ocw.mit.edu/) - ocw.mit.edu
+* [Online College Courses](http://www.onlinecourses.com/) - onlinecourses.com
+* [Open Yale Courses](http://oyc.yale.edu/) - oyc.yale.edu
+* [iversity](https://iversity.org/) - iversity.org
+* [edx](https://www.edx.org/) - edx.org
+* [openculture](http://www.openculture.com/computer_science_free_courses) - openculture.com/computer_science_free_courses
+* [alison](http://alison.com/) - alison.com
+* [openuniversity](http://www.openuniversity.edu/courses/global) - openuniversity.edu/courses/global
+* [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com/) - microsoftvirtualacademy.com
+* [Education Portal](http://education-portal.com/) - education-portal.com
+* [codecademy](http://www.codecademy.com/) - codecademy.com
+* [computerscienceforeveryone](http://www.computerscienceforeveryone.com/) computerscienceforeveryone.com
 
 ## Class Central
 
