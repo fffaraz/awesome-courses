@@ -45,6 +45,9 @@ List of free online programming/CS courses
 ## Etc.
 
 * [The 25 Best Places To Take Free Online Computer Science Classes](http://www.edudemic.com/the-25-best-places-to-take-free-online-computer-science-classes/)
+* [Microsoft Research](http://research.microsoft.com/en-us/)
+* [Microsoft Research Academic](http://academic.research.microsoft.com/)
+* [Google Scholar](http://scholar.google.com/)
 
 ## Persian / Farsi websites
 
