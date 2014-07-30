@@ -7,24 +7,24 @@ List of free online programming/CS courses
 
 ## Websites
 
-* [coursera](https://www.coursera.org/) - coursera.org
-* [udacity](https://www.udacity.com/) - udacity.com
-* [udemy](https://www.udemy.com/courses/) - udemy.com/courses
-* [khanacademy](https://www.khanacademy.org/) - khanacademy.org
-* [openhpi](https://openhpi.de/) - openhpi.de
-* [stanford online courses](http://online.stanford.edu/courses) - online.stanford.edu/courses
+* [Education Portal](http://education-portal.com/) - education-portal.com
 * [MIT OpenCourseWare](http://ocw.mit.edu/) - ocw.mit.edu
+* [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com/) - microsoftvirtualacademy.com
 * [Online College Courses](http://www.onlinecourses.com/) - onlinecourses.com
 * [Open Yale Courses](http://oyc.yale.edu/) - oyc.yale.edu
-* [iversity](https://iversity.org/) - iversity.org
-* [edx](https://www.edx.org/) - edx.org
-* [openculture](http://www.openculture.com/computer_science_free_courses) - openculture.com/computer_science_free_courses
 * [alison](http://alison.com/) - alison.com
-* [openuniversity](http://www.openuniversity.edu/courses/global) - openuniversity.edu/courses/global
-* [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com/) - microsoftvirtualacademy.com
-* [Education Portal](http://education-portal.com/) - education-portal.com
 * [codecademy](http://www.codecademy.com/) - codecademy.com
 * [computerscienceforeveryone](http://www.computerscienceforeveryone.com/) computerscienceforeveryone.com
+* [coursera](https://www.coursera.org/) - coursera.org
+* [edx](https://www.edx.org/) - edx.org
+* [iversity](https://iversity.org/) - iversity.org
+* [khanacademy](https://www.khanacademy.org/) - khanacademy.org
+* [openculture](http://www.openculture.com/computer_science_free_courses) - openculture.com/computer_science_free_courses
+* [openhpi](https://openhpi.de/) - openhpi.de
+* [openuniversity](http://www.openuniversity.edu/courses/global) - openuniversity.edu/courses/global
+* [stanford online courses](http://online.stanford.edu/courses) - online.stanford.edu/courses
+* [udacity](https://www.udacity.com/) - udacity.com
+* [udemy](https://www.udemy.com/courses/) - udemy.com/courses
 
 ## Class Central
 
@@ -44,13 +44,13 @@ List of free online programming/CS courses
 
 ## Persian / Farsi websites
 
-* [maktabkhooneh](http://maktabkhooneh.org/)
-* [kelasedars](http://kelasedars.org/)
-* [takhtesefid](http://takhtesefid.org/)
-* [darsnameh](http://www.darsnameh.com/)
-* [mit-ocw.sbu.ac.ir](http://mit-ocw.sbu.ac.ir/)
-* [webyad](http://www.webyad.com/)
-* [fa.khanacademy](https://fa.khanacademy.org/)
+* [darsnameh](http://www.darsnameh.com/) - darsnameh.com
+* [farsi khanacademy](https://fa.khanacademy.org/) - fa.khanacademy.org
+* [kelasedars](http://kelasedars.org/) - kelasedars.org
+* [maktabkhooneh](http://maktabkhooneh.org/) - maktabkhooneh.org
+* [mit-ocw.sbu.ac.ir](http://mit-ocw.sbu.ac.ir/) - mit-ocw.sbu.ac.ir
+* [takhtesefid](http://takhtesefid.org/) - takhtesefid.org
+* [webyad](http://www.webyad.com/) - webyad.com
 
 # Courses
 
