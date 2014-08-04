@@ -48,6 +48,7 @@ List of free online programming/CS courses
 * [Microsoft Research](http://research.microsoft.com/en-us/)
 * [Microsoft Research Academic](http://academic.research.microsoft.com/)
 * [Google Scholar](http://scholar.google.com/)
+* [Research at Google](http://research.google.com/)
 * [Research Publications at Facebook](https://www.facebook.com/publications)
 
 ## Persian / Farsi websites
