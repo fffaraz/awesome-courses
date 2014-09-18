@@ -1,0 +1,21 @@
+
+- Codecademy: Here you can learn to code in languages like HTML, Javascript, CSS, Ruby on Rails and Python. 
+
+- Girl Develop: While female coders do exist, programming is still largely a male dominated field. Girl Develop is one of the many programs that aims to motivate women to enter this arena. It is a non profit organisation and gives instruction to women willing to learn.
+
+- Stanford University’s Udacity: The Introduction to Computer Science course in this one is available online for free. See if it suits you.
+
+- Code Racer: This is a multiplayer live coding game where one can learn to build websites in CSS and HTML. The more experienced ones can test how adept they are at coding.
+
+- The Computer Clubhouse: This helps youngsters from low-income communities to learn how to express themselves creatively through new technologies. The program reportedly has more than 25,000 students working with their mentors every year.
+
+- CoderDojo’s: This is a volunteer-driven program, where youngsters learn how to code and are taken on tours at tech firms along with talks by guest speakers.
+
+- Code School: A wide range of programming languages, web tools and design software are offered in this online program.
+
+- Treehouse: This is the parent website to Code Racer and has online video courses and exercises.
+
+- Girls Who Code: This is a program providing instruction and mentoring in coding specifically to 13 to 17 year old girls.
+
+- Black Girls Code: This is aimed at girls in the African American community who want to learn how to code. 
+
