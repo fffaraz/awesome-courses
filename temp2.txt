@@ -1,0 +1,83 @@
+10 Websites To Learn Coding Interactively
+
+1. Codecademy
+
+Thanks to its helpful interface and well-structured courses, Codecademy is indisputably the most famous website to teach you to code interactively. You can make your pick amongst Web Fundamentals, PHP, JavaScript, jQuery, Python, Ruby and APIs.
+
+Every lesson carries a panel which can explain the necessary code and instruction. Another panel lets you to try your hands on coding by writing acceptable code, then checking if you are doing the right thing. Don’t worry if you are making errors, as both instruction and code panels will warn you of errors, and provide hints.
+
+2. Code Avengers
+
+Take our words, Code Avengers is designed to make you fall in love with programming. Although, as of now it only offers HTML5, CSS3 and JavaScript courses, but every single course here is carefully designed to truly entertain you and level up your programming skills. It's almost like playing a game and the end of each lesson you literally get to play a mini game to release the stress that you have cumulated during the lesson.
+
+You can also play with the code and immediately see how the changes impact. It carefully takes care of a beginner’s comfort.
+
+3. Code School
+
+After you finished courses in Codecademy or Code Avengers, and you are ready to step further, Code School is the right place to be at. Unlike other interactive learning sites, Code School provides you with more in-depth courses to help you expertise.
+
+Overall, the courses are categorized into 4 main streams i.e. Ruby, JavaScript, HTML/CSS and iOS.
+
+The courses are streamlined with excellent design and informative screencasts. And with the challenges provided after screencast, they provide hints and answers to help you try and learn. 
+
+Most of the offered courses are free, some of them will require you to spend $25/month to access the entire course including all screencasts and challenges, and also all other courses in Code School.
+
+4. Treehouse
+
+The courses at Treehouse are more project-oriented than language-oriented. So if you are a novice programmer who have a planned purpose like creating a website, or an application. This is the way to go.
+
+For example, the Websites course is all about building a responsive website, interactive website or even WordPress theme – a very practical and efficient way to master related languages. 
+
+The courses at Treehouse are divided into different stages or modules, and after every first stage the learner will be invited to pay a monthly subscription fee of $25 to access all courses with 650+ videos, and an exclusive Treehouse Members Forum as a bonus. 
+
+Also if you are serious about your programming future, you could subscribe the $49 monthly plan to obtain in-depth interviews with leading industry pros and cutting-edge workshops.
+
+5. LearnStreet
+
+If you are someone who would rather go for cold hard codes instead of fancy playful designs, LearnStreet is your thing. 
+
+Currently the website offers JavaScript, Python and Ruby courses at beginner level. All you need to do is to click on the ‘Start Course’ button and you will start the lesson with an exercise, a code interpreter and a glossary panel of new programming terms.
+
+LearnStreet adopts command prompt-styled code interpreters with human language to explain function and encourage you whenever possible, the kind of command prompt you want for your own local machine. 
+
+It's indeed a friendly, enjoyable and free website.
+
+6. Udacity
+
+Udacity is the combination of insightful video lectures and improved quizzes to achieve the interactive feel for students. So if you are someone who don’t like to read and who would like to listen from industry professionals like Google employees, this website is for you!
+
+The website provides screencast from pros discussing the topics and instructions, then you will take either logic or programming quizzes to strengthen your understanding on a particular skill. 
+
+The website is known for providing more videos than any other site, and the instructors are either real-life professors or industry veterans.
+
+Although one drawback here is that most of the courses offered are not much related to each other. So we will not recommend Udacity as a starting point, but it is indeed a virtual university to further up your study.
+
+7. CodeHS
+
+Most of the websites above were majorly dedicated to web development and computer science, but here at CodeHS your will get simple and fun game programming lessons, which will involve lessons on problem solving, JavaScript, animation, data structures, game design and puzzle challenges.
+
+CodeHS helps you to think and solve a problem like a programmer right from its first course. The lessons are fun as you will learn how to use the code to move the dog and puzzles like picking up ball and building a towel. 
+
+Although other than its first course mentioned above, one will be required to sign up first with $25 per month to continue your learning journey, but trust us the amount is worth it if you are willing to learn basic game programming effectively.
+
+8. Khan Academy
+
+The courses at Khan Academy might not be as structured as CodeHS, but it definitely serves as an open playground for both novice and amateurs who are interested in learning drawing, animation and user interaction with code. It does not take you forward on any programming language in particular, but the code pattern it adopts can be applied anywhere, as a majority of languages share the similar programming pattern.
+
+You can join the first Programming Basics course to watch and learn basic concepts, then explore the given code after the video tutorial to validate your doubts. In Khan Academy, you can also save your modification as a Spin-Off for everyone to enjoy and customize. You can imagine the community size and the lesson’s effectiveness as there have been hundreds of spin-offs just from one lesson in one course.
+
+9. Scratch 2.0
+
+Your think CodeHS and Khan Academy were too hardcore? Nothing to worry, we have something easier for the aspiring programmer in you and it’s called Scratch. Previously an offline software that allowed kids to create, upload and share their projects proudly, Scratch is now fully online with its 2.0 successor. 
+
+Although it’s not all about programming but it is a good combination of visual blocks of commands that tell assigned objects how to behave, such as telling the cat to move 10 steps, or yell ‘meow’ when it touches the owner’s leg. 
+
+By using this visual programming method, a programmers will form a habit of breaking a problem into smaller blocks, and solve them one by one logically.
+
+10. SQLZOO
+
+Structured Query Language (SQL) is a language which was designed with the pure intention of storing and retrieve data from a database. So you think the experience of learning the language can be full of boredom? We bring SQLZOO, which will let you to learn SQL happily with its interactive interface and smileys.
+
+Since nothing too deep is there to explain for a straightforward language like SQL, the site simply ask you to replace the variables like city names or population number, and raise the difficulty from that level. 
+
+Although one drawback that we could think here is the lack of hints, answers and forum which can leave someone probably doomed if they fail to solve any one of the quizzes. 
