@@ -25,6 +25,7 @@ List of free online programming/CS courses
 * [stanford online courses](http://online.stanford.edu/courses) - online.stanford.edu/courses
 * [udacity](https://www.udacity.com/) - udacity.com
 * [udemy](https://www.udemy.com/courses/) - udemy.com/courses
+* [mongodb](https://university.mongodb.com/) - Free Online MongoDB Training
 
 ## Class Central
 
