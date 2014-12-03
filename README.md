@@ -36,7 +36,6 @@ List of free online programming/CS courses
 
 * [reddit - learnprogramming](http://www.reddit.com/r/learnprogramming/)
 * [reddit - /u/dhawal](http://www.reddit.com/user/dhawal)
-
 * [reddit (November 2014)](http://www.reddit.com/r/learnprogramming/comments/2ldxqz/)
 * [reddit (October 2014)](http://www.reddit.com/r/learnprogramming/comments/2i0mhe/)
 * [reddit (September 2014)](http://www.reddit.com/r/learnprogramming/comments/2fd4xl/)
