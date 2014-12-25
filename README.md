@@ -59,6 +59,10 @@ List of free online programming/CS courses
 * [Research at Google](http://research.google.com/)
 * [Research Publications at Facebook](https://www.facebook.com/publications)
 
+## Lists
+
+* [awesome-courses](https://github.com/prakhar1989/awesome-courses)
+
 ## Persian / Farsi websites
 
 * [darsnameh](http://www.darsnameh.com/) - darsnameh.com
