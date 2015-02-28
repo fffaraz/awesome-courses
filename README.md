@@ -66,6 +66,7 @@ List of free online programming/CS courses
 
 ## Persian / Farsi websites
 
+* [daneshabad](http://daneshabad.com/) - daneshabad.com
 * [darsnameh](http://www.darsnameh.com/) - darsnameh.com
 * [farsi khanacademy](https://fa.khanacademy.org/) - fa.khanacademy.org
 * [kelasedars](http://kelasedars.org/) - kelasedars.org
