@@ -59,6 +59,8 @@ List of free online programming/CS courses
 * [Google Scholar](http://scholar.google.com/)
 * [Research at Google](http://research.google.com/)
 * [Research Publications at Facebook](https://www.facebook.com/publications)
+* [arxiv](http://arxiv.org/list/cs/recent)
+* [ieeexplore](http://ieeexplore.ieee.org/)
 
 ## Lists
 
