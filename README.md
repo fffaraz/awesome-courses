@@ -62,6 +62,7 @@ List of free online programming/CS courses
 * [Research Publications at Facebook](https://www.facebook.com/publications)
 * [arxiv](http://arxiv.org/list/cs/recent)
 * [ieeexplore](http://ieeexplore.ieee.org/)
+* [springer](http://link.springer.com/)
 
 ## Lists
 
