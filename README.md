@@ -72,6 +72,7 @@ List of free online programming/CS courses
 
 * [daneshabad](http://daneshabad.com/) - daneshabad.com
 * [darsnameh](http://www.darsnameh.com/) - darsnameh.com
+* [faradars](http://faradars.org/)
 * [farsi khanacademy](https://fa.khanacademy.org/) - fa.khanacademy.org
 * [kelasedars](http://kelasedars.org/) - kelasedars.org
 * [maktabkhooneh](http://maktabkhooneh.org/) - maktabkhooneh.org
