@@ -28,6 +28,7 @@ List of free online programming/CS courses
 * [mongodb](https://university.mongodb.com/) - Free Online MongoDB Training
 * [tutorialspoint](http://www.tutorialspoint.com/index.htm)
 * [alison](http://alison.com/learn/Programming)
+* [open source society university](https://ossu.firebaseapp.com/) - ossu.firebaseapp.com
 
 ## Class Central
 
