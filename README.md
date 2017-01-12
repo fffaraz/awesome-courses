@@ -80,3 +80,5 @@ List of free online programming/CS courses
 * [mit-ocw.sbu.ac.ir](http://mit-ocw.sbu.ac.ir/) - mit-ocw.sbu.ac.ir
 * [takhtesefid](http://takhtesefid.org/) - takhtesefid.org
 * [webyad](http://www.webyad.com/) - webyad.com
+* [ocw.sharif.edu](http://ocw.sharif.edu/) - ocw.sharif.edu
+
