@@ -67,7 +67,11 @@ List of free online programming/CS courses
 
 ## Lists
 
-* [awesome-courses](https://github.com/prakhar1989/awesome-courses)
+* [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
+* [open-source-society/computer-science](https://github.com/open-source-society/computer-science)
+* [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
+* [chhantyal/influential-cs-books](https://github.com/chhantyal/influential-cs-books)
+* [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books)
 
 ## Persian / Farsi websites
 
