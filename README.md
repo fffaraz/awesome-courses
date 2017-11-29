@@ -29,27 +29,9 @@ List of free online programming/CS courses
 * [tutorialspoint](http://www.tutorialspoint.com/index.htm)
 * [alison](http://alison.com/learn/Programming)
 * [open source society university](https://ossu.firebaseapp.com/) - ossu.firebaseapp.com
-
-## Class Central
-
-* [class-central Computer Science](https://www.class-central.com/subject/cs)
-
-## Reddit Lists
-
 * [reddit - learnprogramming](http://www.reddit.com/r/learnprogramming/)
 * [reddit - /u/dhawal](http://www.reddit.com/user/dhawal)
-* [reddit (November 2014)](http://www.reddit.com/r/learnprogramming/comments/2ldxqz/)
-* [reddit (October 2014)](http://www.reddit.com/r/learnprogramming/comments/2i0mhe/)
-* [reddit (September 2014)](http://www.reddit.com/r/learnprogramming/comments/2fd4xl/)
-* [reddit (March 2014)](http://www.reddit.com/r/learnprogramming/comments/1zms0p/)
-* [reddit (Jan 2014)](http://www.reddit.com/r/learnprogramming/comments/1umnmp/)
-* [reddit (November 2013)](http://www.reddit.com/r/learnprogramming/comments/1q18ly/)
-* [reddit (October 2013)](http://www.reddit.com/r/learnprogramming/comments/1nwxw2/)
-* [reddit (September 2013)](http://www.reddit.com/r/learnprogramming/comments/1lseo4/)
-* [reddit (July 2013)](http://www.reddit.com/r/learnprogramming/comments/1hkilr/)
-* [reddit (April 2013)](http://www.reddit.com/r/learnprogramming/comments/1bx5mb/)
-* [reddit (Feb 2013)](http://www.reddit.com/r/learnprogramming/comments/17xrb2/)
-* [reddit (Jan 2013)](http://www.reddit.com/r/learnprogramming/comments/15tzua/)
+* [class-central Computer Science](https://www.class-central.com/subject/cs)
 
 ## Etc.
 
@@ -68,6 +50,7 @@ List of free online programming/CS courses
 ## Lists
 
 * [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
+* [romulomourao/awesome-courses](https://github.com/romulomourao/awesome-courses)
 * [open-source-society/computer-science](https://github.com/open-source-society/computer-science)
 * [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 * [chhantyal/influential-cs-books](https://github.com/chhantyal/influential-cs-books)
