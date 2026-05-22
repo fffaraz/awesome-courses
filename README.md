@@ -23,6 +23,7 @@ List of free online programming/CS courses
 * [openhpi](https://openhpi.de/) - openhpi.de
 * [openuniversity](http://www.openuniversity.edu/courses/global) - openuniversity.edu/courses/global
 * [stanford online courses](http://online.stanford.edu/courses) - online.stanford.edu/courses
+* [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 * [udacity](https://www.udacity.com/) - udacity.com
 * [udemy](https://www.udemy.com/courses/) - udemy.com/courses
 * [mongodb](https://university.mongodb.com/) - Free Online MongoDB Training
